@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HackYourFuture\AndroidStudioProjects\MySoccerCounterApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70bddf4568e393b08701fb9d65e7637b5cecff97">
+        <dex dex="C:\Users\HackYourFuture\AndroidStudioProjects\MySoccerCounterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a1c07f18a310c6413017a1ee8c3ea83da6bd2a25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HackYourFuture\AndroidStudioProjects\MySoccerCounterApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\HackYourFuture\AndroidStudioProjects\MySoccerCounterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f7d84581201b387a0dcffbe70e05b1cf69badbf6\classes.dex" />
+    </item>
+
+</items>
