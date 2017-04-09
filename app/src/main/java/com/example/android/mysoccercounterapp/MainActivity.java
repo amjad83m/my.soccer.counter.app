@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        /*
         updateTeam1Display(1, team1Goals);
         updateTeam1Display(2, team1FreeKicks);
         updateTeam1Display(3, team1Corners);
@@ -23,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         updateTeam2Display(3, team2Corners);
         updateTeam2Display(4, team2YCards);
         updateTeam2Display(5, team2RCards);
+        */
     }
 
     // team 1 global variables
